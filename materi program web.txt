@@ -3,8 +3,8 @@ materi yang harus di pelajari di program web antara lain yaitu :
   * heading 
   * paragraf
   * link 
-  * table 
-  * gambar 
   * form
 - css
+  * framework css boostrap 
+  * framework css twnlins
 - javascript
