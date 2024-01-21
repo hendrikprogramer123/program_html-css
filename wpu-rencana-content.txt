@@ -3,7 +3,8 @@ rencana konten wpu
 - javascript 
   * es6 
   * framework javascript
-    ^ vue
+    ^ vue  
+    ^ reack
 - struktur data dasar
 - php frameworks
   ^ laravel
